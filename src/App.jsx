@@ -6,8 +6,8 @@ import MovieList from "./components/MovieList";
 import UserList from "./components/UserList";
 
 const users = [
-  { id: 1, name: "Viki", role: "Admin" },
-  { id: 2, name: "Alex", role: "User" },
+  { id: 1, name: "Vic", role: "Admin" },
+  { id: 2, name: "Guest", role: "User" },
 ];
 
 function App() {
